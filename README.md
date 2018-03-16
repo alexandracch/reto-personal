@@ -92,12 +92,47 @@ Clientes que sean padres de niños menores a 3 años.
 - Luego de lo que acabamos de hablar, ¿hay algo que quieres averiguar acerca de eso?
 
 
+## Guía de entrevista a una madre
+
+**Screen validation:**
+
+- ¿Cuál es el sexo de tu bebé?
+- ¿Cuanto tiempo tiene tu niño o niña?
+
+**Lactancia:**
+
+- ¿Aún le das de lactar a tu bebé? y por qué?
+- ¿Tienes horarios de lactancia?
+- ¿Sabes las técnicas de lactancia?
+- ¿Qué alimentación complementaria utilizas para tu hij@?
+- ¿Llevas algún tipo de alimentación especial o complementaria en esta etapa de lactancia?
+
+**Nutrición:**
+
+- ¿Tienes alguna referencia o guía de cómo alimentar a tu hij@?
+- ¿Sabes el peso y talla de tu hij@?
+- ¿Constantemente revisas su peso y talla?
+- ¿Cómo sabes si tu hijo está sano?
+- ¿Utilizas alguna app para llevar el control nutricional de tu hij@? cuál? por qué?
+- ¿Tu hij@ lleva un control nutricional? (Pediatra, nutricionista, bromatólogo, familiar)
+- ¿Conoces las condiciones alimenticias requiere tu hijo para su edad? Cuáles?
+- ¿Sabes qué condiciones o actividades debe cumplir tu hij@ para su edad? 
+- ¿Sabes sobre las enfermedades de nutrición? Cuáles?
+- ¿Alguna vez has llevado a tu hij@ a un diagnóstico de enfermedades alimenticias?
+
+**Final:**
+
+- ¿Cuando estabas embarazada sabías qué cuidados necesitaba un bebé? (primer bebé)
+- ¿Qué es lo que descubriste necesitaba un bebé ya siendo mamá?
+- ¿Te sientes en la capacidad de saber todo sobre tu hij@?
 
 
-* **Materialize**
-* **JS**
-* **Particles.js**
-* **JQuery**
-* **CSS3**
-* **HTML5**
+**Herramientas utilizadas:**
+
+* **Figma**
+* **Marvel**
+* **Design Thinking**
+* **Sketch Templates**
+* **Mapa de afinidad**
+* **Research**
 
