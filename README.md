@@ -219,7 +219,7 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 ### User persona principal
 
-![upp](assets/img/upp.png)
+![upp](assets/img/upe.png)
 
 ### User persona secundario
 
@@ -227,7 +227,7 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 ### User persona extremo
 
-![upp](assets/img/upe.png)
+![upp](assets/img/upp.png)
 
 ## Feature List
 
@@ -237,6 +237,20 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 ## Priorización
 
 ![feature-list](assets/img/priorización.png)
+
+## Prototipo en papel
+
+![pp](assets/img/paper-proto/1.png)
+![pp](assets/img/paper-proto/2.png)
+![pp](assets/img/paper-proto/3.png)
+![pp](assets/img/paper-proto/4.png)
+![pp](assets/img/paper-proto/5.png)
+![pp](assets/img/paper-proto/6.png)
+![pp](assets/img/paper-proto/7.png)
+![pp](assets/img/paper-proto/8.png)
+![pp](assets/img/paper-proto/9.png)
+![pp](assets/img/paper-proto/10.png)
+![pp](assets/img/paper-proto/11.png)
 
 
 
