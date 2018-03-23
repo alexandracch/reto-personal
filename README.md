@@ -214,6 +214,17 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 [Entrevistas](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
 
+## Feature List
+
+![feature-list](assets/img/lista.png)
+
+
+## Priorización
+
+![feature-list](assets/img/priorización.png)
+
+
+
 
 **Herramientas utilizadas:**
 * **Figma**
