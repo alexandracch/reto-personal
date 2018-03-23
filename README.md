@@ -205,8 +205,17 @@ Prototipado, testing y conclusiones.
 - ¿Te sientes en la capacidad de saber todo sobre tu hij@?
 
 
-**Herramientas utilizadas:**
 
+## Entrevistas
+
+Las entrevistas se desarrollaron durante la primera semana de acuerdo con el plan de Research.
+
+En la siguiente carpeta de Drive, puede encontrar los audios: 
+
+[Entrevistas](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
+
+
+**Herramientas utilizadas:**
 * **Figma**
 * **Marvel**
 * **Design Thinking**
