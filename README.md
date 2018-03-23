@@ -1,23 +1,99 @@
-# Reto personal
+# Super Wawa
 
-* **Track:** _Especialización UX Design_
-* **Curso:** _Conociendo los negocios_
-* **Unidad:** _Lecciones básicas de negocios_
-* **Alummnas:** _Alexandra Calderón Chumbes_
+App para celular que te permite llevar el control del desarrollo nutricional de tus wawas, desde los 0 meses hasta los 3 años. Podrás encontrar una calculadora antropométrica, percentiles, dietas y una guía de desarrollo psicomotor. 
 
-            
+## Análisis Actual
 
-***
+### Descubrimiento del problema a resolver
+
+Como todo país, el Perú también tiene defectos, los más grandes son: falta de dinero, asaltos, inestabilidad laboral, corrupción, salud, costos elevados en servicios básicos y la desnutrición en niños.
+
+Se reliazó una investigación previa sobre esta última situación. Encontramos que: 
+
+- El Perú tiene uno de los mejores planes para combatir la desnutrición llamado "Dando la Talla".
+
+- Con este proyecto se disminuyó en un 5% la taza de niños desnutridos, solo en 5 años.
+
+- Según naciones unidas el Perú tiene las condiciones para ser el primer país hambre cero.
+
+- Los mil primeros días de vida son desicivos para una persona, esto porque en base a su nutrición se definirá talla, contextura y capacidad de retención.
+
+## Plan de Research
+
+### Planteamiento de Research para la solución a la desnutrición en el Perú
+
+##### Realizado por: María Alexandra Calderón Chumbes
+
+Aplicación móvil que acompañe y guíe a médicos especialistas en el control de enfermedades nutricionales en niños dentro de los primeros mil días de vida.
+
+*Stakeholders: Médicos especialistas en desnutrición, hospitales, clínicas, centros enfocados en nutrición y padres de familia con hijos menores a 3 años*
+
+*Fecha de revisión: Viernes 16 de marzo del 2018*
+
+Se descubrió que uno de los principales problemas en el Perú es la desnutrición. Esto se puede cambiar con un correcto control nutricional y buena alimentación principalmente en los mil primeros días de vida. 
+
+Investigación previa:
+
+- Uno de los principales problemas del Perú es la desnutrición, en general es de el 46% y solo en niños alcanza un 13.1% en niños menores a 5 años.
+
+- Ya hay en el país un gran proyecto desarrollándose (Dando la Talla), con el cual se está disminuyendo la desnutrición en un 5%.
+
+- La Desnutrición en niños causa: fatiga, poca retención de información, baja talla, bajo peso o sobrepeso, malhumor, etc. Que a lo largo del tiempo se convierten en obstáculos para su vida universitaria y profesional, dando como resultado un sueldo menor a una persona que fue bien nutrida durante su niñez. 
+
+- Software de la OMS: Este programa de pc es completo y complejo a la vez. Tiene una calculadora antropométrica, tablas percentiles, control psicomotor, etc. de funcionalidades enfocadas en médicos de hospitales y clínicas, e incluso pueden comparar a sus pacientes. 
+
+- Aplicaciones en Play Store: Hay unas seis aplicaciones que de forma básica tienen funcionalidades que ayudan a los médicos y padres. Tres de ellas poco entendibles y las otras tres son muy efectivas.
+
+#### Hipótesis
+
+Crear una aplicación enfocada en médicos especialistas en nutrición con la cual puedan llevar el control de niños con enfermedades nutricionales.
+
+#### Objetivos Comerciales
+
+¿Cuál es el propósito de esta investigación? ¿Qué ayudará esta investigación a informar o resolver? Comprender los objetivos más amplios me ayuda a garantizar que la investigación esté diseñada para ayudar a respaldar la estrategia comercial de mi cliente. Quiero asegurarme de proporcionar datos procesables, no meramente datos interesantes.
+
+#### Objetivos de la Investigación
+
+Los objetivos de investigación son diferentes de los objetivos comerciales. Aquí, bosquejo las preguntas de investigación que responderá el estudio.
+¿Qué es útil? ¿Qué necesita la gente? ¿Quién es el público objetivo entre los peruanos?
+¿Qué se puede usar? ¿Qué diseño funciona para las personas y cómo se puede implementar?
+
+El objetivo de la investigación es descubrir qué tan valida es la hipótesis inicial. Con esto podremos saber cuál es el target de usuarios que tendremos,qué tipo de información necesita este target y cuáles serían las mejores opciones de diseño para vender el producto.
+
+#### Metodología de la investigación
+
+La metodología a usar será *Design Thinking*. ¿Por qué? Es una forma de crear productos y servicios que tiendan a satisfacer en mejor manera las necesidades de los usuarios haciéndolos parte activa del proceso de creación.
+También la *metodología Agile*, la cual basa su desarrollo en un ciclo iterativo , en el que las necesidades y soluciones evolucionan a través de la colaboración entre los diferentes equipos involucrados en el proyecto.
+
+#### Perfil del participante
+Utilizó esta información para construir el filtro, por lo que detallo exactamente a quién queremos reclutar y a quién seleccionar. La plantilla para esta investigación es:
+
+- Médicos y enfermeros/as especialistas en pediatría y/o nutrición.
+- Padres y madres con hijos menores a tres años.
+- No hay un rango de edad.
+
+#### Metodología de Reclutamiento
+
+*Guerrilla*
+
+Dirigirnos a clínicas, hospitales y postas, donde podamos encontras a médicos y enfermeros/as. Para encontrar a padres y madres, visitar parques, centros de recreación, centro de estudios, etc.
+
+*Incentivos*
+
+A todos los participantes se les entregará un obsequio en agradecimiento con la información y ayuda brindada.
+
+
+#### Expectativas sobre entregas y tiempos
+
+1. 1ra Semana: 
+
+Ideación, Research y validación de hipótesis.
+
+2. 2da semana: 
+
+Prototipado, testing y conclusiones.
 
 ## Research
-
-### Target: Madres y padres con niños menores a 3 años
-
-### Stakeholders
-
-**Cliente externo:**
-
-Clientes que sean padres de niños menores a 3 años.
 
 ### Reunión de Kick off:
 
@@ -30,7 +106,7 @@ Clientes que sean padres de niños menores a 3 años.
 * ¿Qué información brindarle a los padres para que puedan entenderlo?
 * ¿Cuáles son los términos médicos que debo incluir y cuáles no?
 
-## Guía de Entrevista a un médico
+### Guía de Entrevista a un médico
 
 **Screen validation:**
 
@@ -92,7 +168,7 @@ Clientes que sean padres de niños menores a 3 años.
 - Luego de lo que acabamos de hablar, ¿hay algo que quieres averiguar acerca de eso?
 
 
-## Guía de entrevista a una madre
+### Guía de entrevista a una madre
 
 **Screen validation:**
 
