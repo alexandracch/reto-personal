@@ -219,15 +219,15 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 ### User persona principal
 
-![upp](assets/img/User persona 1.png)
+![upp](assets/img/upp.png)
 
 ### User persona secundario
 
-![upp](assets/img/User persona 1.1.png)
+![upp](assets/img/ups.png)
 
 ### User persona extremo
 
-![upp](assets/img/User persona 1.2.png)
+![upp](assets/img/upe.png)
 
 ## Feature List
 
