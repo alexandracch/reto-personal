@@ -214,6 +214,20 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 [Entrevistas](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
 
+## Formularios
+
+![upp](assets/form/form1.PNG)
+![upp](assets/form/form2.PNG)
+![upp](assets/form/form3.PNG)
+![upp](assets/form/form4.PNG)
+![upp](assets/form/form5.PNG)
+![upp](assets/form/form6.PNG)
+![upp](assets/form/form7.PNG)
+![upp](assets/form/form8.PNG)
+![upp](assets/form/form9.PNG)
+![upp](assets/form/form10.PNG)
+![upp](assets/form/form11.PNG)
+
 
 ## Mapa de afinidad
 
@@ -277,7 +291,17 @@ Se recibió el siguiente feedback:
 
 - Explicar sobre las posibles enfermedades.
 
-- 
+- Filtros para percentiles.
+
+- Poder comparar los percentiles de diferentes "wawas".
+
+- Agregar la medición de pliegues corporales en la calculadora antropométrica.
+
+- Agregar la medición de brazos y muñecas en la calculadora antropométrica.
+
+## Conclusiones
+
+
 
 
 
