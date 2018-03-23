@@ -214,6 +214,11 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 [Entrevistas](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
 
+
+## Mapa de afinidad
+
+![upp](assets/img/mapa.jpg)
+
 ## User persona
 
 
@@ -250,6 +255,34 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 ![pp](assets/img/paper-proto/ocho.jpg)
 ![pp](assets/img/paper-proto/nueve.jpg)
 ![pp](assets/img/paper-proto/diez.jpg)
+
+## Testing
+
+Se recibió el siguiente feedback:
+
+- Para el logeo: Poner primero la opción de usuario-contraseña, luego los botons de logeo con Gmail y Facebook.
+
+- Explicar más sobre los términos médicos.
+
+- Hacer las alertas más visibles.
+
+- Explicar para qué sirve la generación de códigos por "wawas"(niño).
+
+## Prototipo de Alta Fidelidad
+
+[Alta Fidelidad](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
+
+
+## Implemetaciones a futuro
+
+- Explicar sobre las posibles enfermedades.
+
+- 
+
+
+
+
+
 
 
 
