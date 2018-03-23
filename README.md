@@ -240,17 +240,17 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 ## Prototipo en papel
 
-![pp](assets/img/paper-proto/1.png)
-![pp](assets/img/paper-proto/2.png)
-![pp](assets/img/paper-proto/3.png)
-![pp](assets/img/paper-proto/4.png)
-![pp](assets/img/paper-proto/5.png)
-![pp](assets/img/paper-proto/6.png)
-![pp](assets/img/paper-proto/7.png)
-![pp](assets/img/paper-proto/8.png)
-![pp](assets/img/paper-proto/9.png)
-![pp](assets/img/paper-proto/10.png)
-![pp](assets/img/paper-proto/11.png)
+![pp](assets/img/paper-proto/uno.jpg)
+![pp](assets/img/paper-proto/dos.jpg)
+![pp](assets/img/paper-proto/tres.jpg)
+![pp](assets/img/paper-proto/cuatro.jpg)
+![pp](assets/img/paper-proto/cinco.jpg)
+![pp](assets/img/paper-proto/seis.jpg)
+![pp](assets/img/paper-proto/siete.jpg)
+![pp](assets/img/paper-proto/ocho.jpg)
+![pp](assets/img/paper-proto/nueve.jpg)
+![pp](assets/img/paper-proto/diez.jpg)
+
 
 
 
