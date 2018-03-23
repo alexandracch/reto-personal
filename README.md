@@ -233,6 +233,27 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 ![upp](assets/img/mapa.jpg)
 
+
+## Validación de Hipótesis
+
+Crear una aplicación enfocada en médicos especialistas en nutrición con la cual puedan llevar el control de niños con enfermedades nutricionales.
+
+- Esta fue una hipótesis inválida. Según las entrevistas y los formularios, el problema real está en la falta de información ue tienen los padres sobre temas de nutrición para sus hijos.
+
+## Planteamiento del problema
+
+Falta de información en padres y allegados a niños sobre su nutrición y condición física sana.
+
+## Target
+
+- Padres y madres de niños menores a 3 años.
+
+- Médicos especialistas.
+
+- Personas a cargo de niños menores a 3 años (niñeras, familiares, profesoras, etc.)
+
+
+
 ## User persona
 
 
@@ -301,16 +322,7 @@ Se recibió el siguiente feedback:
 
 ## Conclusiones
 
-
-
-
-
-
-
-
-
-
-
+- Se empezó con una idea errónea, pero con el Research se pudo encontrar el verdadero problema a resolver.
 
 **Herramientas utilizadas:**
 * **Figma**
