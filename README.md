@@ -214,6 +214,21 @@ En la siguiente carpeta de Drive, puede encontrar los audios:
 
 [Entrevistas](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
 
+## User persona
+
+
+### User persona principal
+
+![upp](assets/img/User persona 1.png)
+
+### User persona secundario
+
+![upp](assets/img/User persona 1.1.png)
+
+### User persona extremo
+
+![upp](assets/img/User persona 1.2.png)
+
 ## Feature List
 
 ![feature-list](assets/img/lista.png)
