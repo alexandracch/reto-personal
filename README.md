@@ -1,6 +1,11 @@
-# Super Wawa
+# SUPER WAWA
 
-![super-wawa](assets/img/logo.png)
+![logo](https://user-images.githubusercontent.com/32309484/38487506-0115050a-3ba6-11e8-9902-532560fe6c51.png) 
+
+[Super Wawa](https://marvelapp.com/51c9g43/screen/40895905)
+
+
+
 
 App para celular que te permite llevar el control del desarrollo nutricional de tus wawas, desde los 0 meses hasta los 3 años. Podrás encontrar una calculadora antropométrica, percentiles, dietas y una guía de desarrollo psicomotor. 
 
@@ -305,7 +310,7 @@ Se recibió el siguiente feedback:
 
 ## Prototipo de Alta Fidelidad
 
-[Alta Fidelidad](https://drive.google.com/drive/folders/1WIa4aPP2Wp7s7I1DIRdWk_RuQZv6FhRe?usp=sharing)
+[Super Wawa](https://marvelapp.com/51c9g43/screen/40895905)
 
 
 ## Implemetaciones a futuro
