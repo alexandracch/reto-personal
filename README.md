@@ -2,12 +2,11 @@
 
 ![logo](https://user-images.githubusercontent.com/32309484/38487506-0115050a-3ba6-11e8-9902-532560fe6c51.png) 
 
-[Super Wawa](https://marvelapp.com/51c9g43/screen/40895905)
 
+App para celular que te permite llevar el control del desarrollo nutricional de tus wawas, desde los 0 meses hasta los 3 años. Podrás encontrar una calculadora antropométrica, percentiles, dietas y una guía de desarrollo psicomotor.
 
-
-
-App para celular que te permite llevar el control del desarrollo nutricional de tus wawas, desde los 0 meses hasta los 3 años. Podrás encontrar una calculadora antropométrica, percentiles, dietas y una guía de desarrollo psicomotor. 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 ## Análisis Actual
 
